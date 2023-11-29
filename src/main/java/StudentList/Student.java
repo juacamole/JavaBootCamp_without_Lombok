@@ -1,4 +1,4 @@
-package org.example;
+package StudentList;
 
 public class Student {
     private String name;
@@ -10,28 +10,13 @@ public class Student {
         this.surname = surname;
         this.studentNumber = studentNumber;
     }
-
     public String getName() {
         return name;
     }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
     public String getSurname() {
         return surname;
     }
-
-    public void setSurname(String surname) {
-        this.surname = surname;
-    }
-
     public String getStudentNumber() {
         return studentNumber;
-    }
-
-    public void setStudentNumber(String studentNumber) {
-        this.studentNumber = studentNumber;
     }
 }

@@ -1,10 +1,10 @@
-package org.example;
+package StudentList;
 
 
 public class Main {
     public static void main(String[] args){
 
-        Student.
+
 
     }
 }
